@@ -8,7 +8,7 @@ If you'd like to build your own, here is the YouTube video [video](https://youtu
 
 ## Demo
 
-[View it live here](https://www.gpsresume.com/)
+[Check Out the Live Version of the Static Website!](https://fgonzalez.azureedge.net//)
 
 ## Pre-requisites
 
